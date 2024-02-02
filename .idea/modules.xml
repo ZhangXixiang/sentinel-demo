@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservice-sentinel.iml" filepath="$PROJECT_DIR$/.idea/microservice-sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-dashboard/sentinel-dashboard.iml" filepath="$PROJECT_DIR$/sentinel-dashboard/sentinel-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-service8101/sentinel-service8101.iml" filepath="$PROJECT_DIR$/sentinel-service8101/sentinel-service8101.iml" />
+    </modules>
+  </component>
+</project>
